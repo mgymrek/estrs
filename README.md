@@ -4,5 +4,4 @@ Code and data used for the study "Abundant contribution of short tandem repeats 
 This repository currently contains the following directories:
 
 * Figures/: Ipython notebooks and links to data for generating the main figures
-
-Additional files will be added shortly.
+* SupplementalFigures/: Ipython notebooks and links to data for generating supplemental figures
